@@ -10,7 +10,7 @@ const imgstyle = {
 function Cakes(){
     return <div>
         <Navbar/>
-        <h1>cakes</h1>
+        <h1>Cakes</h1>
         <img src={img1} style={imgstyle}/>
         <img src={img2} style={imgstyle}/>
     </div>

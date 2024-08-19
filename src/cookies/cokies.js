@@ -9,7 +9,7 @@ function Cookies(){
 
     return <div>
         <Navbar/>
-        <h1>cookies</h1>
+        <h1>Cookies</h1>
         <img src={img} style={imgstyle}/>
     </div>
 }
