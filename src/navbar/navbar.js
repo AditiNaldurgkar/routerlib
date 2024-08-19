@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 const stylenav={
-    backgroundColor: "aqua",
+    backgroundColor: " #FF7F50",
     borderRadius: "10px",
     padding: "10px",
     margin: "10px",
